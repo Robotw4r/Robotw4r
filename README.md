@@ -4,4 +4,4 @@ low level stuff are most likely to interest me, as well as apps I need for perso
 
 I may learn rust someday, but i'm lazy, that's why most of my projects are unfinished
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=floflo0&exclude_repo=amberol,dotfiles&layout=normal&theme=dracula](https://github-readme-stats.vercel.app/api/top-langs/?username=Robotw4r&layout=normal&show_icons=true&theme=transparent)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Robotw4r&layout=normal&show_icons=true&theme=transparent)
